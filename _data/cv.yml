@@ -2,96 +2,55 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Baptiste Abeles
     - name: Languages
-      value: English, German
+      value: French, English, Spanish
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Universitat Pompeu Fabra, Barcelona, Spain
+      year: 2023 -
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
-
+        - I am currently working on designing methods to study the ability of algorithm to generalize well on new unseen data.
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistan Professor of Linear Algebra.
+      institution: Universitat Pompeu Fabra, Barcelona, Spain.
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - I help undergraduate students solving exercises and learning the fundamental concepts of linear algebra.  
+    - title: Machine Learning Research Intern at Viking Conseil.
+      institution: Viking Conseil, Paris, France.
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - I have designed an online learning algorithm for adaptive power consumption forecasting based on a latent space model representation. 
+    - title: Machine Learning Research Intern at San Martin University.
+      institution: San Martin University, Buenos Aires, Argentina.
+      year: 2022
+      description: I have studied statistical methods, such as PCA and ICA and applied it to observe the presence of exoplanets based on the knowledge of the radial velocity of the star.
+    - title: Private Mathematics Tutor.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Artificial Intelligence
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Online Learning.
+        - Generalization Bounds.
+        - Bandit Algorithms.
+        - Reinforcement Learning.
+    - title: Mathematics.
       items:
-        - Description 1.
-        - Description 2.
+        - Concentration Bounds.
+        - Martingale Techniques.
+        - Linear Algebra.
+        - Graph theory.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Football, Climbing, Piano, Philosophy.
+
