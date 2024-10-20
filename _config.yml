@@ -251,6 +251,9 @@ exclude:
   - _pages/teaching.md
   - _pages/dropdown.md
   - purgecss.config.js
+  - _posts/2024-05-01-tabs.md
+  - _posts/2024-04-29-typograms.md
+  - _posts/
   - README.md
   - readme_preview/
   - vendor
