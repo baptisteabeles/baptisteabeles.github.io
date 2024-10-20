@@ -173,8 +173,8 @@ external_sources:
     rss_url: https://medium.com/@al-folio/feed
   - name: Google Blog
     posts:
-       - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-11-10
+      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+        published_date: 2024-11-14
 
 
 # -----------------------------------------------------------------------------
