@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-31 16:11:00-0400
+date: 2024-01-22 16:11:00-0400
 inline: true
 related_posts: false
 ---
- Multi-Agent Reinforcement Learning (MARL) Summer School at EPFL Lausanne.
+ New article with Gergely Neu and Eugenio Clerico extending our previous work on generalization bounds for mixing processes called "Online-to-PAC generalization bounds under graph-mixing dependencies" has been accepted to AISTATS 2025! 
